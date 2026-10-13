@@ -14,7 +14,7 @@ Comparison of classification accuracy and GMACs on the DSCC dataset.
 
 Comparison of (a) conventional CNN processing, (b) token-mixer-based processing, and (c) the proposed hierarchical spatial merging and token averaging.
 
-![Overview of HSMTA](structure%286%29.png)
+![Overview of HSMTA](structure.png)
 
 ### Environment and Dependencies
 
